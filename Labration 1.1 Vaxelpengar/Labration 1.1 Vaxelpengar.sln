@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labration 1.1 Vaxelpengar", "Labration 1.1 Vaxelpengar.\Labration 1.1 Vaxelpengar.csproj", "{93962EAF-A3AA-42FF-A3EF-0B08AB67CA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93962EAF-A3AA-42FF-A3EF-0B08AB67CA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93962EAF-A3AA-42FF-A3EF-0B08AB67CA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93962EAF-A3AA-42FF-A3EF-0B08AB67CA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93962EAF-A3AA-42FF-A3EF-0B08AB67CA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
